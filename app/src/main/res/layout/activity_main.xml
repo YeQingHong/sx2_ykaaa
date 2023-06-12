@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:onClick="a1"
+        android:layout_margin="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@mipmap/ic_launcher"
+        android:text="冯绍峰是飞飞色色额五光十色个"
+        android:gravity="center" />
+    <TextView
+        android:layout_margin="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@mipmap/ic_launcher"
+        android:text="冯绍峰是飞飞五光十色个"
+        android:gravity="center" />
+    <TextView
+        android:layout_margin="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@mipmap/ic_launcher"
+        android:text="冯绍峰是飞飞色色额五光"
+        android:gravity="center" />
+    <TextView
+        android:layout_margin="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@mipmap/ic_launcher"
+        android:text="冯绍峰是飞飞色色额五光十色个而是分手费"
+        android:gravity="center" />
+    <TextView
+        android:layout_margin="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@mipmap/ic_launcher"
+        android:text="苦瓜苦瓜飞飞色色额五光十色个"
+        android:gravity="center" />
+    <TextView
+        android:layout_margin="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@mipmap/ic_launcher"
+        android:text="二三翁无无色额五光十色个"
+        android:gravity="center" />
+    <TextView
+        android:layout_margin="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@mipmap/ic_launcher"
+        android:text="哪个五光十色个"
+        android:gravity="center" />
+
+</LinearLayout>
